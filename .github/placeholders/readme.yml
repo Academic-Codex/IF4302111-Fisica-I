@@ -1,0 +1,12 @@
+REPO_TAGLINE: Classical Mechanics • Physics Evolution • Experiments
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: notes
+SITE_URL: https://academic-codex.github.io/IF4302111-Fisica-I
+
+BG_1: "#111827"
+BG_2: "#1D4ED8"
+TEXT_MAIN: "#F9FAFB"
+TEXT_MUTED: "#BFDBFE"
+ACCENT: "#60A5FA"
+CARD_RADIUS: "18"
